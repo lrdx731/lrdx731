@@ -3,5 +3,5 @@
 <!--
 **lrdx731/lrdx731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Olá! Meu nome é Rafael Albuquerque, sou aluno de Ciência da Computação na UFRJ e atualmente estou me desenvolvendo como programador. Atuo usando, principalmente, linguagens como Python e suas tecnologias, 
-como pandas, scikit-learn, entre outras. Também atuei bastante com C, tendo conhecimento em bibliotecas como stdlib, dentre outras.
+##Olá! Meu nome é Rafael Albuquerque, sou aluno de Ciência da Computação na UFRJ e atualmente estou me desenvolvendo como programador. Atuo usando, principalmente, linguagens como Python e suas tecnologias, 
+##como pandas, scikit-learn, entre outras. Também atuei bastante com C, tendo conhecimento em bibliotecas como stdlib, dentre outras.
